@@ -43,7 +43,7 @@ function Navbar() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.2 }}
           >
-            <span className="font-bold text-xl text-white">TECHNOMASR</span>
+            <span className="font-bold text-xl text-white">E-COMMERCE</span>
           </motion.div>
           {/* Cart */}
           <motion.div

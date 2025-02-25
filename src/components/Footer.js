@@ -11,9 +11,9 @@ function Footer() {
       className="bg-gradient-to-br rounded-3xl from-pink-800 to-purple-800 fixed bottom-0 w-full"
     >
       <div className="flex flex-col items-center text-white mb-1">
-        <div className="text-xl font-bold tracking-widest mb-1">TECHNOMASR</div>
+        <div className="text-xl font-bold tracking-widest mb-1">E-COMMERCE</div>
         <div className="text-center text-gray-200 text-sm">
-          &copy; {currentYear} TECHNOMASR. All rights reserved.
+          &copy; {currentYear} E-COMMERCE. All rights reserved.
         </div>
       </div>
     </motion.footer>
